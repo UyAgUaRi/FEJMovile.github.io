@@ -7,4 +7,4 @@
 - Fausto Gallegos
 - Jairo Sisalema  
 ENCARGADO DE LA PARTE DE "SOBRE NOSOTROS"
-<img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/31d07cf7-f711-407b-a2c2-8960ef4639e4" />
+  <img width="1911" height="995" alt="image" src="https://github.com/user-attachments/assets/e899f86b-bd75-4464-8b4a-f9959b58b925" />
