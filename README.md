@@ -11,3 +11,5 @@ ENCARGADO SOBRE INFORMACIÓN DE LA EMPRESA
 - Jairo Sisalema  
 ENCARGADO DE LA PARTE DE "SOBRE NOSOTROS"
   <img width="1911" height="995" alt="image" src="https://github.com/user-attachments/assets/e899f86b-bd75-4464-8b4a-f9959b58b925" />
+  <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/cc663df4-8e10-404d-aa49-ac7856998897" />
+
