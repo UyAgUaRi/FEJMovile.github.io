@@ -3,7 +3,7 @@
 **Fecha:** 17/10/2025  
 
 **Integrantes:**  
-- Erick Uyaguari
+- Erick Uyaguari  
 ENCARGADO SOBRE INFORMACIÓN DE LA EMPRESA
 <img width="1145" height="505" alt="image" src="https://github.com/user-attachments/assets/bd5a75e2-53fa-46f8-8f88-1a082ac241ef" />
 
