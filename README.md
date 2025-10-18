@@ -12,6 +12,7 @@ ENCARGADO DEL INICIO DE LA PAGINA WEB DE LA EMPRESA FEJ MOVILES
 <img width="1311" height="636" alt="image" src="https://github.com/user-attachments/assets/83f6d67d-cd77-4be5-85dd-9595819df31c" />
 <img width="1171" height="537" alt="image" src="https://github.com/user-attachments/assets/2875373f-49cd-44b0-9852-b63b61ef99a8" />
 <img width="1175" height="619" alt="image" src="https://github.com/user-attachments/assets/7f6622ca-fefb-4c7f-bdc6-94137034300c" />
+<img width="1224" height="609" alt="image" src="https://github.com/user-attachments/assets/64b05def-5cf9-4b68-869c-155850c66c83" />
 <img width="1249" height="508" alt="image" src="https://github.com/user-attachments/assets/8bb28a0a-77dc-4a02-98aa-fbb2d34f2241" />
 
 - Jairo Sisalema  
