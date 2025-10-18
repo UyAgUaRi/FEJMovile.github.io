@@ -23,3 +23,4 @@ ENCARGADO DE LA PARTE DE "SOBRE NOSOTROS" DE LA EMPRESA FEJ MOVILES
     
 COLABORACIÓN GRUPAL  
 <img width="633" height="577" alt="image" src="https://github.com/user-attachments/assets/c569a130-929f-4bb1-b017-c209850633f1" />
+<img width="302" height="315" alt="image" src="https://github.com/user-attachments/assets/e52ab382-9aa4-4734-a193-bd735a608a2a" />
